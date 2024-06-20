@@ -11,4 +11,4 @@ System Requirements
 
 •	Crack Master only supports Microsoft Basic Display Adapter driver (Video Modes: 1280*y) Resolution or 100% compatibles. Don’t use other video modes and non-compatible graphic drivers.
 
-•	Crack Master is fully tested under several configurations (Including Win 10 v10.0.19045.2130 & Win 11 v10.0.22621.674) and operated flawlessly.
+•	Crack Master is fully tested under several configurations (Including Win 10 v10.0.19045.2130 & Win 11 v10.0.22631.3593) and operated flawlessly.
