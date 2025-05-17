@@ -9,6 +9,6 @@ System Requirements
 
 •	Pentium 4 based PC hardware with PS/2 plugged keyboard or compatible  (supports USB to PS/2 keyboard emulation – ports 60h/64h)
 
-•	Crack Master only supports Microsoft Basic Display Adapter driver (Video Modes: 1280*y) Resolution or 100% compatibles. Don’t use other video modes and non-compatible graphic drivers.
+•	Crack Master only supports Microsoft Basic Display Adapter driver or 100% compatibles. Don’t use non-compatible graphic drivers.
 
-•	Crack Master is fully tested under several configurations (Including Win 10 v10.0.19045.2130 & Win 11 v10.0.22631.3593) and operated flawlessly.
+•	Crack Master is fully tested under several configurations (Including Win 10 v10.0.19045.2130 & Win 11 v10.0.22631.3880) and operated flawlessly.
